@@ -1,5 +1,6 @@
-This project is a NotePad where user can edit/add/delete ntoes from the Pad. Project was bootstrapped with [Create React App] 
-
+This project is a NotePad where user can edit/add/delete ntoes in the Pad. Project was bootstrapped with [Create React App]
+### 'npm install'
+download all dependencies for project
 
 ### `npm start`
 
